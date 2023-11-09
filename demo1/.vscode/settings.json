@@ -1,0 +1,9 @@
+{
+    "cmake.generator": "MinGW Makefiles",
+    "clangd.fallbackFlags": [
+      "-std=c++2a",
+      "-I${workspaceFolder}",
+      "-I${workspaceFolder}/glad/include"
+    ]
+
+}
